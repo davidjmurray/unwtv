@@ -6,3 +6,5 @@ As Microsoft has not offered the WMC (Windows Media Center) component of MS-Wind
 This is a collection of scripts to help with the migration from all things wtv to more open options.
 
 Cheers and good luck.
+
+MS-Windows, MS-Windows 7, MS-windows 8, wtv, WMC, and a whole lot of other stuff are trademarks and copyrights or Microsoft Corporation.
